@@ -1,5 +1,4 @@
 ## WEB GL SAMPLE
-<img src="https://github.com/y-ono366/web_gl/blob/media/captcha.gif" width="100%">
 ### STEP.1
 clone
 ```
@@ -18,3 +17,4 @@ access
 $ npm start
 ```
 access to http://localhost:8080/
+<img src="https://github.com/y-ono366/web_gl/blob/media/captcha.gif" width="100%">
